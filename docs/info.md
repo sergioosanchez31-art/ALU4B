@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+esta alu realiza cuatro operaciones
 
 ## How to test
 
-Explain how to use your project
+en el bus bidireccional poner un codigo
 
 ## External hardware
 
